@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://pistolo-pl.pages.dev/sitemap.xml
+Sitemap: https://pistolo-pl-bk5.pages.dev/sitemap.xml
